@@ -1,4 +1,10 @@
 ## Prazer, sou o Kaio!
+Faz 5 anos que estou em contato com o TI. Tive minhas primeiras impressões em um tecnólogo na ETEC e atualmente estou fazendo graduação em Analise e Desenvolvimento de Sistemas na FATEC.
+Sou uma pessoa muito tranquila que gosta de passar um bom tempo sozinho. Apaixonado em jogar jogos (principalmente os Rougue Like) e principalmente e ouvir músicas diferentes!
+
+Agora estou estudando mais por fora da faculdade, buscando meu primeiro estágio e fazendo projetos pessoais como o Donatello, um aplicativo do tipo "to-do" que metrifica seu progresso e te ajuda na correria do dia a dia.
+
+**Atualmente estudando:** Power BI e excel.
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiokor&theme=nord&show_icons=true&hide_border=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokor&theme=nord&show_icons=true&hide_border=true&layout=compact">
